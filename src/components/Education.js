@@ -1,6 +1,6 @@
 const educationList = [
   {
-    school: "Universitas Informatika dan Bisnins Indonesia",
+    school: "Universitas Informatika dan Bisnis Indonesia",
     major: "Bachelor of Informatics Engineering",
     period: "2022 - 2026",
     desc: "Bandung, Indonesia",
